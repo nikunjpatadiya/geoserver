@@ -1,0 +1,38 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-58d74d57:17de30b7204:-7ff4</id>
+  <name>tcom_autonomous</name>
+  <mode>SINGLE</mode>
+  <title>tcom_autonomous</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-757363bc:17c0998f184:-7fe9</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-58d74d57:17de30b7204:-7ffd</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-58d74d57:17de30b7204:-7ffa</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-2bcb4d6:17cc83f9602:-7ffd</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--2a1a980:17ccb3135b6:-7fff</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-124.2165937</minx>
+    <maxx>-67.78279677</maxx>
+    <miny>25.45039523999999</miny>
+    <maxy>48.99903158</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-22 17:45:58.195 UTC</dateCreated>
+  <dateModified>2021-12-22 17:46:11.827 UTC</dateModified>
+</layerGroup>

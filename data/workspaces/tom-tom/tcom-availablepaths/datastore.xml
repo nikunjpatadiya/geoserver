@@ -1,0 +1,20 @@
+<dataStore>
+  <id>DataStoreInfoImpl-58d74d57:17de30b7204:-7fff</id>
+  <name>tcom-availablepaths</name>
+  <type>GeoPackage</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-757363bc:17c0998f184:-7fe9</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="Batch insert size">1</entry>
+    <entry key="database">file:data/tcom/AllCoverage.gpkg</entry>
+    <entry key="read_only">false</entry>
+    <entry key="dbtype">geopkg</entry>
+    <entry key="namespace">http://geoserver.org/tom-tom</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2021-12-22 17:33:33.718 UTC</dateCreated>
+</dataStore>

@@ -1,0 +1,17 @@
+<layer>
+  <name>bl_geo</name>
+  <id>LayerInfoImpl-58d74d57:17de30b7204:-7ffa</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2a1a980:17ccb3135b6:-7fff</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-58d74d57:17de30b7204:-7ffb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-22 17:38:32.252 UTC</dateCreated>
+  <dateModified>2021-12-22 17:42:54.360 UTC</dateModified>
+</layer>

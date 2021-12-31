@@ -1,0 +1,17 @@
+<layer>
+  <name>al</name>
+  <id>LayerInfoImpl-58d74d57:17de30b7204:-7ffd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-2bcb4d6:17cc83f9602:-7ffd</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-58d74d57:17de30b7204:-7ffe</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-22 17:36:04.888 UTC</dateCreated>
+  <dateModified>2021-12-22 17:39:53.865 UTC</dateModified>
+</layer>
